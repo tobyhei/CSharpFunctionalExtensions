@@ -75,6 +75,7 @@
     <Compile Include="AsyncResultExtensionsLeftOperand.cs" />
     <Compile Include="AsyncResultExtensionsBothOperands.cs" />
     <Compile Include="AsyncResultExtensionsRightOperand.cs" />
+    <Compile Include="ValueObjectList.cs" />
     <Compile Include="ValueObject.cs" />
     <Compile Include="Maybe.cs" />
     <Compile Include="MaybeExtensions.cs" />
